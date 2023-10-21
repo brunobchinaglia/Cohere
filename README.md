@@ -11,6 +11,24 @@ Before running the Song Generator, ensure that you have the necessary dependenci
 ```bash
 pip install cohere streamlit
 ```
+
+### Runing the Aplications
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/your-repo.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd your-repo
+```
+
+3. Run the application using Streamlit:
+```bash
+streamlit run filename.py
+```
+
 ## Authors
 * Bruno Basckeira Chinaglia
 * Giorgano Santorum Lorenzetto
