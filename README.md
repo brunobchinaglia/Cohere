@@ -29,6 +29,22 @@ cd your-repo
 streamlit run filename.py
 ```
 
+###Using the Application
+
+1. Access the application through its URL.
+
+2. Provide the required information:
+
+* What you want to study today? (topic): Enter the topic of study for which you want to create a jingle.
+* Creativity: Adjust the creativity slider to control the level of creativity in the generated jingle. Lower values produce more predictable output, while higher values result in more creative output.
+* Target Audience: Choose the intended audience for the jingle (Kids, High Schoolers, College Students).
+
+3. Click the "Generate Idea" button to generate a musical idea based on your inputs.
+
+4. The generated musical idea, the jingle, will be displayed below the form.
+
+
+
 ## Authors
 * Bruno Basckeira Chinaglia
 * Giorgano Santorum Lorenzetto
