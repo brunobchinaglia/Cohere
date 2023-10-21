@@ -1,26 +1,12 @@
 # Song Generator
 
-This is a simple application for generating musical ideas based on study topics and target audience. The application uses the Cohere API to generate jingles based on user inputs.
+The **Song Generator** is a web application designed to create musical ideas, specifically jingles, based on user-provided study topics and target audiences. The application utilizes the **Cohere API** for natural language generation and **Streamlit** for building an intuitive web interface.
 
-## How to Use
+## How It Works
 
-1. Access the application at [App URL](insert URL here).
+### Dependencies
 
-2. Fill in the required fields:
+Before running the Song Generator, ensure that you have the necessary dependencies installed. You can install them using the following commands:
 
-   - **What do you want to study today? (topic):** Enter the study topic for which you want to create a jingle.
-   - **Music Genre:** Select the music genre for the generated idea (Pop, Rock, Funk).
-   - **Target Audience:** Choose the target audience for whom the jingle is intended (Kids, High Schoolers, College Students).
-
-3. Click the "Generate Idea" button to generate a musical idea based on your inputs.
-
-4. The generated musical idea will be displayed below.
-
-## How to Run Locally
-
-If you want to run the application in your local environment, follow the steps below:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+```bash
+pip install cohere streamlit
