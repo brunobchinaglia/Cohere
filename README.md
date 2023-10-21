@@ -10,3 +10,8 @@ Before running the Song Generator, ensure that you have the necessary dependenci
 
 ```bash
 pip install cohere streamlit
+```
+## Authors
+* Bruno Basckeira Chinaglia
+* Giorgano Santorum Lorenzetto
+* Victor Moreli dos Santos
