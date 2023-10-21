@@ -29,7 +29,7 @@ cd your-repo
 streamlit run filename.py
 ```
 
-###Using the Application
+### Using the Application
 
 1. Access the application through its URL.
 
